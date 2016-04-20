@@ -33,6 +33,6 @@ end
 
 
 
-p phone($dr, "1-921-512-2222") # "Phone => 48-421-674-8974, Name => Anastasia, Address => Via Quirinal Roma")
+p phone($dr, "48-421-674-8974") # "Phone => 48-421-674-8974, Name => Anastasia, Address => Via Quirinal Roma")
 
     
